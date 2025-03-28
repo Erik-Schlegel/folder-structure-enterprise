@@ -1,0 +1,1 @@
+static assets like video, font, ico, img.

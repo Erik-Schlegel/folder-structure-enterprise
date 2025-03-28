@@ -1,0 +1,1 @@
+- pure, stateless, simple helper functions

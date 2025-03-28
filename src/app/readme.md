@@ -1,0 +1,1 @@
+Top-level stuff like the main entry point, routing, and various pages which will reference down to features/ and common/ to assemble stuff.
